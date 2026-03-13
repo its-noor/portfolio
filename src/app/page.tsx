@@ -46,7 +46,7 @@ export default function HomePage() {
             Technical Analyst
           </p>
           <p className="text-base text-zinc-300">
-          "Never trust a computer you can't throw out a window."  Steve Wozniak.
+            &ldquo;Never trust a computer you can&apos;t throw out a window.&rdquo; — Steve Wozniak
           </p>
         </header>
 
