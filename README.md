@@ -8,7 +8,7 @@ Inspired by: https://brittanychiang.com
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 This portfolio is built using modern web development technologies:
 
@@ -23,7 +23,7 @@ These technologies allow the site to be fast, scalable, and maintainable.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 portfolio/
@@ -41,7 +41,7 @@ portfolio/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -75,7 +75,7 @@ http://localhost:3000
 
 ---
 
-## ✨ Features
+##  Features
 
 * Personal introduction
 * Developer portfolio showcase
@@ -86,7 +86,7 @@ http://localhost:3000
 
 ---
 
-## 🎨 Inspiration
+##  Inspiration
 
 This project was heavily inspired by the portfolio created by **Brittany Chiang**.
 
@@ -98,7 +98,7 @@ The original design concept and layout were adapted and customized to create thi
 ---
 
 
-## 👤 Author
+##  Author
 
 Noor
 
