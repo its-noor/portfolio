@@ -82,7 +82,7 @@ export default function HomePage() {
             ))}
           </ul>
           <p className="text-xs text-zinc-500">
-            Loosely designed in Figma and coded in VSasdfa Code. Built with Next.js
+            Loosely designed in Figma and coded in VS Code. Built with Next.js
             & Tailwind CSS, deployed on Vercel.
           </p>
         </div>
